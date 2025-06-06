@@ -4,7 +4,6 @@ The **Agricultural Export Performance Dashboard** is a comprehensive Excel-based
 
 - 📈 **Total Export Value**
 - 📦 **Units Sold**
-- 💰 **Profit Margins**
 - 🌍 **Export Destinations**
 
 ---
@@ -25,18 +24,16 @@ This project was built entirely using **Microsoft Excel**, with a focus on the f
 
 ### ✅ Data Cleaning
 - Removal of duplicates and blank rows
-- Standardization of naming conventions (e.g., product names, country codes)
+- Standardization of naming conventions
 - Handling of missing or inconsistent data entries
 
 ### 🔄 Data Transformation
-- Use of formulas like `IF`, `VLOOKUP`, `INDEX/MATCH`, `TEXT`, `SUMIFS`, and `FILTER`
-- Date formatting and categorization (e.g., by year, quarter, month)
-- Derivation of calculated fields such as profit margins, unit price, etc.
+- Use of formulas like `SUM`, and `FILTER`
+- Date formatting
 
 ### 📊 Dashboarding
 - Interactive Pivot Tables and Pivot Charts
-- Slicers for easy filtering by year, region, or product
-- Conditional formatting for trend highlighting
+- Slicers for easy filtering by region, or product
 - Clean and intuitive layout for stakeholder usability
 
 ---
@@ -45,7 +42,7 @@ This project was built entirely using **Microsoft Excel**, with a focus on the f
 
 This dashboard includes **Excel slicers** that allow users to filter data with a single click. This provides a highly interactive experience where stakeholders can:
 
-- Focus on specific years or product groups
+- Focus on specific product groups
 - Instantly adjust views based on selected countries or regions
 - Drill into specific time periods or export categories
   
