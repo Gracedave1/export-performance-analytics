@@ -4,6 +4,7 @@ The **Agricultural Export Performance Dashboard** is a comprehensive Excel-based
 
 - 📈 **Total Export Value**
 - 📦 **Units Sold**
+- 💰 **Profit Margin**
 - 🌍 **Export Destinations**
 
 ---
