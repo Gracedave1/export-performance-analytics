@@ -33,7 +33,7 @@ This project was built entirely using **Microsoft Excel**, with a focus on the f
 
 ### 📊 Dashboarding
 - Interactive Pivot Tables and Pivot Charts
-- Slicers for easy filtering by region, or product
+- Slicers for easy filtering by region, product or year 
 - Clean and intuitive layout for stakeholder usability
 
 ---
